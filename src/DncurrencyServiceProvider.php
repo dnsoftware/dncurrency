@@ -31,7 +31,9 @@ class DncurrencyServiceProvider extends ServiceProvider
 
     public function register()
     {
-//
+        klklkl
+        
+
 
     }
 
