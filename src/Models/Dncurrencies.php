@@ -141,10 +141,12 @@ class Dncurrencies extends Model
             $oval->rate = floatval($loaded_rate) /  floatval($loaded_nominal);
 
             $oval->save();
+            
 
         }
 
     }
+
 
 
     // Конвертация
