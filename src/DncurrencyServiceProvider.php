@@ -31,6 +31,10 @@ class DncurrencyServiceProvider extends ServiceProvider
 
     public function register()
     {
+<<<<<<< HEAD
+=======
+        //klklkl
+>>>>>>> ba48e8b6a2dc418af533a51e9a916e6b9e8298ca
         
     //    dd
 
